@@ -1,16 +1,56 @@
-# flutter_ui02_tabmenu
+# 📱 Mobile Device Programming for Digital Industry
 
-A new Flutter project.
+Welcome to the official repository for the **Mobile Device Programming for Digital Industry** course.
 
-## Getting Started
+> **"Build mobile apps with impact. Learn the tools, master the craft."**
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 About the Course
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This course introduces students to **mobile application development** using **Flutter** and **Dart**, focusing on cross-platform solutions for real-world digital industry use cases. Students will gain hands-on experience building beautiful, responsive, and data-driven mobile apps.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📂 Repository Status: Coming Soon...
+
+The course materials and sample projects will be uploaded here soon.
+
+> Stay tuned for:
+> - 📄 Lecture notes & labs  
+> - 🧑‍💻 Starter code and templates  
+> - ✅ Assignments & project examples  
+> - 📱 Real mobile apps built by students
+
+Make sure to ⭐️ star or 🔔 watch this repository to get notified when new content is added!
+
+---
+
+## 🛠️ Technologies to Be Used
+- Flutter 3.x & Dart
+- Firebase (Authentication, Firestore, Storage)
+- REST APIs
+- Git & GitHub
+- VS Code / Android Studio
+
+---
+
+## 📌 Course Objectives
+- Understand the fundamentals of cross-platform mobile development
+- Build apps that interact with device hardware and backend services
+- Apply modern UI/UX principles to real applications
+- Collaborate using Git and version control best practices
+
+---
+
+## 👨‍🏫 Instructor
+Sitti Rugtanom
+[Department / University Name]  
+📧 rajamangala university of technology thanyaburi
+---
+
+## 🧠 Stay Tuned
+
+We’re just getting started — this repository will soon include everything you need to build, test, and launch mobile apps from scratch.  
+
+> _“Learning by doing — one app at a time.”_
